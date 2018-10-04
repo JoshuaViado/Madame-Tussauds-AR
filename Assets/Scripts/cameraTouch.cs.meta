@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3a1a330a3842b42b3aaa68a94892341c
+timeCreated: 1491168897
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - albumAudio1: {fileID: 8300000, guid: 21d85b9cc3bff4b9f8a6da83dcf4e6c1, type: 3}
+  - albumAudio2: {fileID: 8300000, guid: 4de581276fd3c4b8f8dc85760e9250ee, type: 3}
+  - albumAudio3: {fileID: 8300000, guid: c1686971c6b5c4188889f6ad937f56eb, type: 3}
+  - albumAudio4: {fileID: 8300000, guid: f7c704666361644d5a3d1012f38910f5, type: 3}
+  - albumAudio5: {fileID: 8300000, guid: 96a912101af1c4af7b2cd0f373bce6b8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

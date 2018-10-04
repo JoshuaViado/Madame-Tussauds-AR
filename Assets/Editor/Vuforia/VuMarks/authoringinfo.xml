@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<VuforiaUnityInfo>
+    <TargetSet toolVersion="" version="6.0"><VuMark name="VumarkMT" previewImage="b2ea9a13f28447139e49570989629b98_scaled.png" targetId="b2ea9a13f28447139e49570989629b98" version="9.0">
+            <Shape bbox2D="0 0 478.25 478.25" origin="245.042 256.375" />
+            <Code IDlength="8" IDtype="string" />
+        </VuMark>
+    </TargetSet>
+</VuforiaUnityInfo>
